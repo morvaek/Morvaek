@@ -25,6 +25,12 @@
 
 ---
 
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/ilgin-yilmz) · [Email](mailto:ilgin.yilmz@icloud.com)
